@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CyberPunk-13
+- 👋 Hi, I’m Pramesh Shahi 
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning it as a beginner 
 - 💞️ I’m looking to collaborate with different friends,senior& junior to improve me 
